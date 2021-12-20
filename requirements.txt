@@ -7,3 +7,6 @@ pip install statsmodels
 pip install pmdarima
 pip install sklearn
 pip install tensorflow
+pip install datetime
+pip install functools
+pip install more_itertools
